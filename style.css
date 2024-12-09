@@ -1,0 +1,75 @@
+  #container{
+      
+      min-width: 720px;
+      max-width: 3000px;
+      border: 2px solid rgb(234, 2, 255);
+      border-radius: 15px;
+      margin: 0 auto;
+    }
+    h1{
+      text-align: center;
+      border: 3px solid purple;
+      font-size: 50px;
+      font-style: oblique;
+      color: rgb(234, 2, 255)
+    }
+    p{
+      text-align: center;
+  border: 3px solid purple;
+  font-size: 50px;
+  color: rgb(246, 7, 246); 
+  font-style: oblique;
+  background-color: black;
+    }
+    body{
+    background-color: black
+    }
+  div{
+      color:rgb(234, 2, 255);
+      font-size: 80px;
+  }  
+
+  a{
+    text-align: center;
+    display: block;
+    font-size: 50px;
+    color: rgb(234, 2, 255);
+  }
+
+  .dropdown .hidden{
+    display: none;
+
+  }
+  .dropdown-content{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4rem;
+  }
+  .dropdown button{
+  background-color: black;
+  color: rgb(234, 2, 255);
+  font-size: 30px;
+  border: 1px solid purple;
+  margin-left: 20px;
+  
+  display: block;
+  }
+
+  #doge{
+    max-height: 600px;
+    max-width: 400px;
+    margin-right: 60px;
+    margin-top: 50px;
+  }
+  
+  #hero{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  
+
+  
+  
+  
